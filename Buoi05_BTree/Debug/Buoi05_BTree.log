@@ -1,0 +1,4 @@
+﻿  Buoi05_BTree.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi05_BTree\Buoi05_BTree.cpp(56,10): warning C4101: 'p': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi05_BTree\Buoi05_BTree.cpp(54,11): warning C4101: 'x': unreferenced local variable
+  Buoi05_BTree.vcxproj -> C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Debug\Buoi05_BTree.exe

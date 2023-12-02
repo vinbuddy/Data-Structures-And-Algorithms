@@ -1,0 +1,47 @@
+﻿  BaiHat.cpp
+  BaiHat_Main.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,6): error C2182: 'initSList': illegal use of type 'void'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,16): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,23): error C2065: 'slist': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,17): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,24): error C2065: 'slist': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,38): error C2065: 'p': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,31): error C2275: 'SNode': illegal use of this type as an expression
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(7): message : see declaration of 'SNode'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(16,14): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(16,20): error C2146: syntax error: missing ')' before identifier 'slist'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\BaiHat_Main.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\BaiHat_Main.cpp(44,24): error C2664: 'void docDuLieu(SList &,char [])': cannot convert argument 2 from 'const char [2]' to 'char []'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\BaiHat_Main.cpp(44,21): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(28,6): message : see declaration of 'docDuLieu'
+  DLSKD_BaiHat.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,6): error C2182: 'initSList': illegal use of type 'void'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,16): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14,23): error C2065: 'slist': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,17): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,24): error C2065: 'slist': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,38): error C2065: 'p': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15,31): error C2275: 'SNode': illegal use of this type as an expression
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(7): message : see declaration of 'SNode'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(16,14): error C2065: 'SList': undeclared identifier
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(16,20): error C2146: syntax error: missing ')' before identifier 'slist'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(20,6): error C2365: 'initSList': redefinition; previous definition was 'data variable'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(14): message : see declaration of 'initSList'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(26,6): error C2365: 'isEmpty': redefinition; previous definition was 'data variable'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(16): message : see declaration of 'isEmpty'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(31,6): error C2365: 'insertTail': redefinition; previous definition was 'data variable'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DSLKD_BaiHat.h(15): message : see declaration of 'insertTail'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(34,6): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(46,9): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(50,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(66,2): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(71,3): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(54,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(61,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(90,5): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(82,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\DLSKD_BaiHat.cpp(108,6): error C2064: term does not evaluate to a function taking 1 arguments
+  _main_Buoi02_DSLKD.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\_main_Buoi02_DSLKD.cpp(19,9): warning C4101: 'p': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi02_DSLKD\_main_Buoi02_DSLKD.cpp(100,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...

@@ -1,0 +1,5 @@
+﻿  DSLKD_SoNguyen.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi01_DSLKD\DSLKD_SoNguyen.cpp(172,13): error C2082: redefinition of formal parameter 'p'
+  _main_DSLKD_SoNguyen.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi01_DSLKD\_main_DSLKD_SoNguyen.cpp(61,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...

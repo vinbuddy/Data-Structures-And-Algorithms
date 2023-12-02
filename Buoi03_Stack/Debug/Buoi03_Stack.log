@@ -1,0 +1,8 @@
+﻿Stack_Main_MSWord.obj : error LNK2005: "struct StackNode * __cdecl createStackNode(int)" (?createStackNode@@YAPAUStackNode@@H@Z) already defined in Stack_DoiCoSo.obj
+Stack_Main_MSWord.obj : error LNK2005: "void __cdecl initStack(struct Stack &)" (?initStack@@YAXAAUStack@@@Z) already defined in Stack_DoiCoSo.obj
+Stack_Main_MSWord.obj : error LNK2005: "bool __cdecl isEmpty(struct Stack)" (?isEmpty@@YA_NUStack@@@Z) already defined in Stack_DoiCoSo.obj
+Stack_Main_MSWord.obj : error LNK2005: "bool __cdecl pop(struct Stack &,int &)" (?pop@@YA_NAAUStack@@AAH@Z) already defined in Stack_DoiCoSo.obj
+Stack_Main_MSWord.obj : error LNK2005: "void __cdecl process(void)" (?process@@YAXXZ) already defined in Stack_DoiCoSo_Main.obj
+Stack_Main_MSWord.obj : error LNK2005: "bool __cdecl push(struct Stack &,struct StackNode *)" (?push@@YA_NAAUStack@@PAUStackNode@@@Z) already defined in Stack_DoiCoSo.obj
+Stack_Main_MSWord.obj : error LNK2005: "void __cdecl showStackNode(struct Stack)" (?showStackNode@@YAXUStack@@@Z) already defined in Stack_DoiCoSo.obj
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Debug\Buoi03_Stack.exe : fatal error LNK1169: one or more multiply defined symbols found

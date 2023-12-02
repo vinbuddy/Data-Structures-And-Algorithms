@@ -1,0 +1,11 @@
+﻿  BangBamDiaChiMo2.cpp
+  BangBamDiaChiMo_Book.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(171,16): warning C4129: '#': unrecognized character escape sequence
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(257,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(259,7): warning C4101: 'c': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(257,11): warning C4101: 'i': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(257,14): warning C4101: 'n': unreferenced local variable
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi10_BangbamDiachimo\BangBamDiaChiMo_Book.cpp(260,11): warning C4101: 'key': unreferenced local variable
+  Buoi10_BangbamDiachimo.cpp
+  Generating Code...
+  Buoi10_BangbamDiachimo.vcxproj -> C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Debug\Buoi10_BangbamDiachimo.exe

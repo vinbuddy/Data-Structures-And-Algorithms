@@ -1,0 +1,5 @@
+﻿  Queue_SoNguyen_Main.cpp
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi04_Queue\Queue_SoNguyen_Main.cpp(53,12): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi04_Queue\Queue_SoNguyen_Main.cpp(53,12): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Buoi04_Queue\Queue_SoNguyen_Main.cpp(53,12): message : the missing variadic argument 1 is required by format string '%d'
+  Buoi04_Queue.vcxproj -> C:\Users\84359\Documents\Study\Năm 2\TH_CTDLGT\THCTDLGT_HTVinh_ST4_SM42\Debug\Buoi04_Queue.exe
